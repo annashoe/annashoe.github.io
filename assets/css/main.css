@@ -111,7 +111,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #483949;
+		color: #0B0B45;
 		line-height: 1.25em;
 	}
 
@@ -140,13 +140,13 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 400;
-		color: #181947;
+		color: #0B0B45;
 	}
 
 	hstrong, b {
 		font-size: 1.2em;
 		font-weight: 900;
-		color: #181947;
+		color: #fafafa;
 	}
 
 	em, i {
@@ -164,7 +164,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #ef8376;
+			color: #7696ef;
 			border-bottom-color: transparent;
 		}
 
@@ -1949,7 +1949,7 @@ input, select, textarea {
 	form label {
 		display: block;
 		font-weight: 400;
-		color: #483949;
+		color: #0B0B45;
 		margin: 0 0 1em 0;
 	}
 
@@ -2099,7 +2099,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #3B353C;
+				background: #0B0B45;
 			}
 
 /* Post */
@@ -2152,7 +2152,7 @@ input, select, textarea {
 		.icon.circled {
 			position: relative;
 			display: inline-block;
-			background: #2b252c;
+			background: #25252c;
 			color: #fff;
 			border-radius: 100%;
 			width: 3em;
@@ -2263,7 +2263,7 @@ input, select, textarea {
 
 		body.homepage #header:after {
 			content: '';
-			background: #1C0920;
+			background: #0B0B45;
 			display: block;
 			position: absolute;
 			left: 0;
