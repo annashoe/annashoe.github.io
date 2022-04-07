@@ -2182,7 +2182,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/mendenhall.jpg");
+		background-image: url("../../images/ice.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2597,6 +2597,7 @@ input, select, textarea {
 		.carousel article {
 			display: inline-block;
 			width: 18em;
+			height: 20em;
 			background: #fff;
 			text-align: center;
 			padding: 0 1em 3em 1em;
@@ -2616,7 +2617,7 @@ input, select, textarea {
 			.carousel article .image {
 				position: relative;
 				left: -1em;
-				top: 0;
+				top: 0em;
 				width: auto;
 				height: auto;
 				margin-right: -2em;
