@@ -58,7 +58,7 @@ body {
 .main a, .contact a, .footer a { color:#380ca8; text-decoration:none; }
 
 .maincontainer h1, .header h1, .main h1 { 
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', Yu Mincho Regular;
     font-weight: 400; 
 }
 
