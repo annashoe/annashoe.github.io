@@ -2182,7 +2182,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/thompsonbig.jpg");
+		background-image: url("../../images/mendenhall.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2200,6 +2200,7 @@ input, select, textarea {
 		}
 
 		#header .inner {
+			background: #0B0B45
 			position: relative;
 			z-index: 1;
 			margin: 0;
@@ -2617,6 +2618,7 @@ input, select, textarea {
 				left: -1em;
 				top: 0;
 				width: auto;
+				height: auto;
 				margin-right: -2em;
 				margin-bottom: 3em;
 			}
