@@ -111,7 +111,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #0B0B45;
+		color: #483949;
 		line-height: 1.25em;
 	}
 
@@ -140,13 +140,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 400;
-		color: #0B0B45;
-	}
-
-	hstrong, b {
-		font-size: 1.2em;
-		font-weight: 900;
-		color: #fafafa;
+		color: #483949;
 	}
 
 	em, i {
@@ -1949,7 +1943,7 @@ input, select, textarea {
 	form label {
 		display: block;
 		font-weight: 400;
-		color: #0B0B45;
+		color: #483949;
 		margin: 0 0 1em 0;
 	}
 
@@ -1978,7 +1972,7 @@ input, select, textarea {
 		form select:focus,
 		form textarea:focus {
 			background: #fff;
-			border-color: #7696ef;
+			border-color: #6889e6;
 		}
 
 	form input[type="text"],
@@ -2083,7 +2077,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #92aaec;
+			background: #7696ef;
 		}
 
 		input[type="button"].alt,
@@ -2099,7 +2093,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #0B0B45;
+				background: #3B353C;
 			}
 
 /* Post */
@@ -2152,7 +2146,7 @@ input, select, textarea {
 		.icon.circled {
 			position: relative;
 			display: inline-block;
-			background: #25252c;
+			background: #2b252c;
 			color: #fff;
 			border-radius: 100%;
 			width: 3em;
@@ -2182,7 +2176,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header1edit.jpg");
+		background-image: url("../../images/thompsonbigedit.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2200,7 +2194,6 @@ input, select, textarea {
 		}
 
 		#header .inner {
-			background: #0B0B45
 			position: relative;
 			z-index: 1;
 			margin: 0;
@@ -2264,7 +2257,7 @@ input, select, textarea {
 
 		body.homepage #header:after {
 			content: '';
-			background: #0B0B45;
+			background: #1C0920;
 			display: block;
 			position: absolute;
 			left: 0;
@@ -2556,7 +2549,7 @@ input, select, textarea {
 			}
 
 			.carousel .forward:hover:before, .carousel .backward:hover:before {
-				background-color: #7696ef;
+				background-color: rgba(239, 131, 118, 0.75);
 			}
 
 		.carousel .forward {
@@ -2589,7 +2582,7 @@ input, select, textarea {
 
 		.carousel .reel {
 			white-space: nowrap;
-			position: center;
+			position: relative;
 			-webkit-overflow-scrolling: touch;
 			padding: 0 2em 0 2em;
 		}
@@ -2616,9 +2609,8 @@ input, select, textarea {
 			.carousel article .image {
 				position: relative;
 				left: -1em;
-				top: 0em;
+				top: 0;
 				width: auto;
-				height: auto;
 				margin-right: -2em;
 				margin-bottom: 3em;
 			}
@@ -3141,7 +3133,6 @@ input, select, textarea {
 
 					.carousel article .image {
 						margin-bottom: 2em;
-						margin-top: 0em;
 					}
 
 	}
