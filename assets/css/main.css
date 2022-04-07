@@ -1941,7 +1941,7 @@ input, select, textarea {
 			}
 
 				ul.icons li a:hover {
-					color: #ef8376;
+					color: #7696ef;
 				}
 
 /* Form */
@@ -1978,7 +1978,7 @@ input, select, textarea {
 		form select:focus,
 		form textarea:focus {
 			background: #fff;
-			border-color: #df7366;
+			border-color: #7696ef;
 		}
 
 	form input[type="text"],
@@ -2182,7 +2182,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/thompson.jpg");
+		background-image: url("../../images/thompsonbig.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
