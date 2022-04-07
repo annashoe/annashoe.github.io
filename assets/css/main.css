@@ -3141,6 +3141,7 @@ input, select, textarea {
 
 					.carousel article .image {
 						margin-bottom: 2em;
+						margin-top: 0em;
 					}
 
 	}
