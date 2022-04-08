@@ -2549,7 +2549,7 @@ input, select, textarea {
 			}
 
 			.carousel .forward:hover:before, .carousel .backward:hover:before {
-				background-color: rgba(239, 131, 118, 0.75);
+				background-color: #6889e6;
 			}
 
 		.carousel .forward {
@@ -2590,6 +2590,7 @@ input, select, textarea {
 		.carousel article {
 			display: inline-block;
 			width: 18em;
+			/*height: 20em;*/
 			background: #fff;
 			text-align: center;
 			padding: 0 1em 3em 1em;
@@ -2611,6 +2612,7 @@ input, select, textarea {
 				left: -1em;
 				top: 0;
 				width: auto;
+				height: auto;
 				margin-right: -2em;
 				margin-bottom: 3em;
 			}
